@@ -4,9 +4,10 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Agent Status](https://img.shields.io/badge/Agent-Online-brightgreen.svg)](http://lailuojia.whu.edu.cn/product/llm/chat/d5csn0eebtnc72t895n0)
 
-**赋能大学数学教育的专属 AI 引擎** —— 武汉大学“火山杯”AI 智能体创新设计大赛参赛项目。
+**赋能大学数学教育的专属 AI 引擎** —— 武汉大学“火山杯”AI 智能体创新设计大赛参赛项目（获决赛一等奖！）。
 
 👉 **[点击这里立即体验珞珈数智助教](http://lailuojia.whu.edu.cn/product/llm/chat/d5csn0eebtnc72t895n0)**
+👉  **[SKILL版本体验](https://github.com/Leionel/luojia-math-tutor-skill)**
 
 ---
 
